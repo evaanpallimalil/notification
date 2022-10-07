@@ -1,0 +1,107 @@
+.container{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: hsl(211, 68%, 94%);
+}
+.inside-container{
+    margin-top: 1.8cm;
+    background-color: white ;
+    height: 80%;
+    margin-left: auto;
+    width: 60%;
+    position: relative;
+    margin-right: auto;
+    border-radius: 10px;
+}
+.notif{
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Fraunces', serif;
+    color: black;
+    margin-left: 30px;
+    margin-top: 35px;
+    position: absolute;
+}
+.box{
+    height: .8cm;
+    width: .8cm;
+    background-color: rgb(26, 26, 102);
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 150px;
+    margin-top: 29px;
+    position: absolute;
+
+}
+.mark{
+    margin-left: 20cm;
+    color: grey;
+    font-size: normal;
+    font-weight: 550;
+    background-color: white;
+    margin-top: 39px;
+    border: none;
+    font-family: 'Fraunces', serif;
+}
+.web1{
+    background-color: hsl(211, 68%, 94%);
+    width: 95%;
+    height: 2.5cm;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    margin-top: 0px;
+}
+.web2{
+    background-color: hsl(211, 68%, 94%);
+    width: 95%;
+    height: 2.5cm;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    margin-top: 0px;
+}
+
+
+.web-notif{
+    margin-left: 3.5cm;
+    padding-top: .4cm;
+    position: relative;
+    font-family:'Fraunces', serif;
+    font-size:medium;
+    font-weight: 600;
+}
+.web-notif2{
+    margin-left: 3.5cm;
+    padding-top: .4cm;
+    position: relative;
+    font-family:'Fraunces', serif;
+    font-size:medium;
+    font-weight: 600;
+}
+.span{
+    font-family: 'Courier New', Courier, monospace;
+}
+/* .web:hover{
+    background-color: white;
+} */
+.indicator{
+    margin-left: 160px;
+    margin-top: 33.7px;
+    position: absolute;
+    box-sizing: content-box;
+    font-family: 'Fraunces', serif;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    
+}
+.web1 img{
+     margin-left: 20px ;
+     margin-top: -44px;
+}
+.web2 img{
+    margin-left: 20px ;
+    margin-top: -44px;
+}
+
